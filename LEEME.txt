@@ -1,0 +1,11 @@
+MI RUTINA — APP SIN INTERNET PARA IPHONE
+
+1. Publica TODOS los archivos de esta carpeta en un hosting estático con HTTPS (ej. GitHub Pages o Netlify).
+2. Abre la dirección del sitio en Safari del iPhone (no en el visor de Archivos ni en el navegador interno de una app).
+3. Toca Compartir > Añadir a pantalla de inicio > Añadir.
+4. Abre Mi Rutina desde su icono al menos una vez CON INTERNET; espera a que cargue.
+5. Después podrás abrir la aplicación SIN INTERNET en ese mismo iPhone.
+
+El progreso se guarda localmente en la app. No se sincroniza con otros dispositivos. Exporta tus datos periódicamente; desinstalar la app o borrar sus datos puede eliminarlos.
+
+IMPORTANTE: Un archivo HTML abierto directamente desde Archivos de iOS no habilita estas funciones offline. Necesita cargarse inicialmente como página HTTPS.
